@@ -1,0 +1,31 @@
+body{
+	margin: 0 auto;  /**页面内容居中**/
+	width:100%;
+	font-size: 12px;
+	text-align: center;
+}
+
+#container{
+	margin: 0 auto;  /**页面内容居中**/
+	width:100%;
+}
+
+#table1{
+	background-color: #f5f5f5;
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+
+#table1 tr th{
+	border: 1px solid #98bf21;
+	height: 30px;
+	font-size: 14px;
+	background-color: #016aa9;
+	color: #FFF;
+}
+
+#table1 tr td{
+	border: 1px solid #98bf21;
+	height: 20px;
+	font-size: 12px;
+}
